@@ -5,7 +5,7 @@
 
 
 
-💬 Mis habilidades **Python, git, Power bi, Sql**
+💬 Mis habilidades **Python, git, Power bi, Sql, Scrum, devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
