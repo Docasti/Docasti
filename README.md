@@ -6,9 +6,9 @@
 
 Soy una profesional técnica con una sólida experiencia en radiología, especializada en la obtención de imágenes para diagnósticos precisos y en la atención al paciente. Mi trayectoria de 24 años ha evolucionado hacia el análisis de datos, donde he desarrollado habilidades clave en la convergencia de la ciencia de datos y la inteligencia artificial (IA).
 
-Mi experiencia técnica colaborando en procedimientos intervencionistas ha fortalecido mi capacidad para trabajar bajo presión y en entornos críticos, preparándome para gestionar proyectos complejos de manera ordenada y colaborativa con los clientes. Mi habilidad para la escucha activa y responder de manera efectiva contribuye a crear un ambiente de trabajo positivo y cooperativo.
+Mi experiencia técnica colaborando en procedimientos intervencionismo ha fortalecido mi capacidad para trabajar bajo presión y en entornos críticos, preparándome para gestionar proyectos complejos de manera ordenada y colaborativa en el equipo y hacia el cliente, destacando que la escucha activa y respuestas efectivas contribuyen a crear un ambiente de trabajo positivo y cooperativo.
 
-He integrado habilidades blandas con un enfoque centrado en la aplicación de metodologías ágiles, esenciales tanto en entornos dinámicos como en el campo de las tecnologías de la información (IT). Esta combinación ha sido fundamental para impulsar proyectos tecnológicos, donde la adaptabilidad y la colaboración efectiva son críticas para el éxito.
+He integrado habilidades blandas con un enfoque centrado en la aplicación de metodologías ágiles, esenciales tanto en entornos dinámicos como en el campo de las tecnologías IT. Esta combinación ha sido fundamental para impulsar proyectos tecnológicos, donde la adaptabilidad y la colaboración efectiva son críticas para el éxito.
 
 Reconozco la importancia de añadir una dosis de humanidad y empatía en el desarrollo de soluciones tecnológicas, mejorando así la experiencia del usuario y fortaleciendo las relaciones interpersonales dentro del equipo de trabajo.
 
