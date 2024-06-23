@@ -1,8 +1,8 @@
-<h2 align="center">Hola soy Dora👋 </h1>
-<h3 align="center">Apasionada Análista de datos de Argentina</h3>
-<h3 align="center">🌱En el camino Data science</h3>
+![LinkedIn Banner](LinkedInBanner.png)
 
-###  Perfil Profesional
+
+
+<h3 align="center">Perfil Profesional:</h3>  
 
 Soy una profesional técnica con una sólida experiencia en radiología, especializada en la obtención de imágenes para diagnósticos precisos y en la atención al paciente. Mi trayectoria de 24 años ha evolucionado hacia el análisis de datos, donde he desarrollado habilidades clave en la convergencia de la ciencia de datos y la inteligencia artificial (IA).
 
