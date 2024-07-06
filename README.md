@@ -4,7 +4,7 @@
 
 <h3 align="center">Perfil Profesional:</h3>  
 
-Soy una profesional técnica con una sólida experiencia en radiología, especializada en la obtención de imágenes para diagnósticos precisos y en la atención al paciente. Mi trayectoria de 24 años ha evolucionado hacia el análisis de datos, donde he desarrollado habilidades clave en la convergencia de la ciencia de datos y la inteligencia artificial (IA).
+Soy una Analista de datos, con una sólida experiencia en radiología, especializada en la obtención de imágenes para diagnósticos precisos y en la atención al paciente. Mi trayectoria de 24 años ha evolucionado hacia el análisis de datos, donde he desarrollado habilidades clave en la convergencia de la ciencia de datos y la inteligencia artificial (IA).
 
 Mi experiencia técnica colaborando en procedimientos intervencionismo ha fortalecido mi capacidad para trabajar bajo presión y en entornos críticos, preparándome para gestionar proyectos complejos de manera ordenada y colaborativa en el equipo y hacia el cliente, destacando que la escucha activa y respuestas efectivas contribuyen a crear un ambiente de trabajo positivo y cooperativo.
 
